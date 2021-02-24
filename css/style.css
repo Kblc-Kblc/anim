@@ -1234,6 +1234,7 @@ body.ie ._ibg img {
   -webkit-animation-delay: 6s;
           animation-delay: 6s;
   opacity: 0;
+  text-align: center;
 }
 
 @-webkit-keyframes title {
@@ -1252,7 +1253,6 @@ body.ie ._ibg img {
     -webkit-transform: translateY(0);
             transform: translateY(0);
     opacity: 1;
-    text-align: center;
   }
 }
 
@@ -1272,7 +1272,6 @@ body.ie ._ibg img {
     -webkit-transform: translateY(0);
             transform: translateY(0);
     opacity: 1;
-    text-align: center;
   }
 }
 
